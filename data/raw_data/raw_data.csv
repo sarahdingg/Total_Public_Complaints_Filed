@@ -1,2 +1,139 @@
-first_col, second_col, third_col
-some, raw, data
+_id,YEAR,TYPE,SUBTYPE,COUNT_
+1,2019,Investigated Complaints,Conduct - Serious,17
+2,2014,Investigated Complaints,Conduct - Less  Serious,184
+3,2019,Investigated Complaints,Policy,2
+4,2019,Investigated Complaints,Service,24
+5,2019,Not Investigated Complaints,Abandoned,0
+6,2019,Not Investigated Complaints,Better Dealt in Other Law,34
+7,2019,Not Investigated Complaints,Complaint Over Six Months,4
+8,2019,Not Investigated Complaints,Frivolous,84
+9,2019,Not Investigated Complaints,Made In Bad Faith,0
+10,2014,Investigated Complaints,Conduct - Serious,60
+11,2019,Not Investigated Complaints,No Jurisdiction,30
+12,2019,Not Investigated Complaints,Not Directly Affected,8
+13,2014,Investigated Complaints,Policy,3
+14,2014,Investigated Complaints,Service,25
+15,2019,Not Investigated Complaints,Not in Public Interest,160
+16,2019,Not Investigated Complaints,Vexatious,2
+17,2014,Not Investigated Complaints,Better dealt in Other Law,1
+18,2014,Not Investigated Complaints,Complaint Over Six Months,19
+19,2019,Not Investigated Complaints,Withdrawn,0
+20,2020,Investigated Complaints,Conduct - Less Serious,267
+21,2014,Not Investigated Complaints,Frivolous,42
+22,2014,Not Investigated Complaints,Made In Bad Faith,0
+23,2020,Investigated Complaints,Conduct - Serious,9
+24,2020,Investigated Complaints,Policy,5
+25,2014,Not Investigated Complaints,No Jurisdiction,54
+26,2014,Not Investigated Complaints,Not Directly Affected,2
+27,2020,Investigated Complaints,Service,17
+28,2020,Not Investigated Complaints,Abandoned,0
+29,2014,Not Investigated Complaints,Not in Public Interest,197
+30,2014,Not Investigated Complaints,Vexatious,2
+31,2020,Not Investigated Complaints,Better Dealt in Other Law,62
+32,2020,Not Investigated Complaints,Complaint Over Six Months,0
+33,2014,Not Investigated Complaints,Withdrawn,9
+34,2015,Investigated Complaints,Conduct - Less  Serious,236
+35,2020,Not Investigated Complaints,Frivolous,68
+36,2020,Not Investigated Complaints,Made In Bad Faith,0
+37,2015,Investigated Complaints,Conduct - Serious,39
+38,2015,Investigated Complaints,Policy,1
+39,2020,Not Investigated Complaints,No Jurisdiction,37
+40,2020,Not Investigated Complaints,Not Directly Affected,23
+41,2015,Investigated Complaints,Service,18
+42,2015,Not Investigated Complaints,Better dealt in Other Law,6
+43,2020,Not Investigated Complaints,Not in Public Interest,298
+44,2020,Not Investigated Complaints,Vexatious,2
+45,2015,Not Investigated Complaints,Complaint Over Six Months,7
+46,2015,Not Investigated Complaints,Frivolous,75
+47,2020,Not Investigated Complaints,Withdrawn,0
+48,2021,Investigated Complaints,Conduct - Less Serious,309
+49,2015,Not Investigated Complaints,Made In Bad Faith,0
+50,2015,Not Investigated Complaints,No Jurisdiction,49
+51,2021,Investigated Complaints,Conduct - Serious,9
+52,2021,Investigated Complaints,Policy,3
+53,2015,Not Investigated Complaints,Not Directly Affected,4
+54,2015,Not Investigated Complaints,Not in Public Interest,152
+55,2021,Investigated Complaints,Service,31
+56,2021,Not Investigated Complaints,Abandoned,1
+57,2015,Not Investigated Complaints,Vexatious,0
+58,2015,Not Investigated Complaints,Withdrawn,6
+59,2021,Not Investigated Complaints,Better Dealt in Other Law,26
+60,2021,Not Investigated Complaints,Complaint Over Six Months,0
+61,2016,Investigated Complaints,Conduct - Less Serious,286
+62,2016,Investigated Complaints,Conduct - Serious,19
+63,2021,Not Investigated Complaints,Frivolous,62
+64,2021,Not Investigated Complaints,Made In Bad Faith,0
+65,2016,Investigated Complaints,Policy,3
+66,2016,Investigated Complaints,Service,31
+67,2021,Not Investigated Complaints,No Jurisdiction,29
+68,2016,Not Investigated Complaints,Abandoned,0
+69,2021,Not Investigated Complaints,Not Directly Affected,18
+70,2016,Not Investigated Complaints,Better Dealt in Other Law,41
+71,2021,Not Investigated Complaints,Not in Public Interest,300
+72,2016,Not Investigated Complaints,Complaint Over Six Months,3
+73,2021,Not Investigated Complaints,Vexatious,2
+74,2016,Not Investigated Complaints,Frivolous,96
+75,2021,Not Investigated Complaints,Withdrawn,1
+76,2016,Not Investigated Complaints,Made In Bad Faith,2
+77,2022,Investigated Complaints,Conduct - Less Serious,260
+78,2016,Not Investigated Complaints,No Jurisdiction,46
+79,2022,Investigated Complaints,Conduct - Serious,8
+80,2016,Not Investigated Complaints,Not Directly Affected,4
+81,2022,Investigated Complaints,Policy,1
+82,2016,Not Investigated Complaints,Not in Public Interest,145
+83,2022,Investigated Complaints,Service,51
+84,2016,Not Investigated Complaints,Vexatious,0
+85,2022,Not Investigated Complaints,Abandoned,0
+86,2016,Not Investigated Complaints,Withdrawn,4
+87,2022,Not Investigated Complaints,Better Dealt in Other Law,21
+88,2017,Investigated Complaints,Conduct - Less Serious,271
+89,2022,Not Investigated Complaints,Complaint Over Six Months,9
+90,2017,Investigated Complaints,Conduct - Serious,23
+91,2022,Not Investigated Complaints,Frivolous,85
+92,2017,Investigated Complaints,Policy,6
+93,2022,Not Investigated Complaints,Made In Bad Faith,0
+94,2017,Investigated Complaints,Service,24
+95,2022,Not Investigated Complaints,No Jurisdiction,40
+96,2017,Not Investigated Complaints,Abandoned,0
+97,2022,Not Investigated Complaints,Not Directly Affected,33
+98,2022,Not Investigated Complaints,Not in Public Interest,342
+99,2022,Not Investigated Complaints,Vexatious,6
+100,2022,Not Investigated Complaints,Withdrawn,3
+101,2023,Investigated Complaints,Conduct - Less Serious,295
+102,2023,Investigated Complaints,Conduct - Serious,5
+103,2023,Investigated Complaints,Policy,2
+104,2023,Investigated Complaints,Service,68
+105,2023,Not Investigated Complaints,Abandoned,0
+106,2023,Not Investigated Complaints,Better Dealt in Other Law,19
+107,2023,Not Investigated Complaints,Complaint Over Six Months,10
+108,2023,Not Investigated Complaints,Frivolous,64
+109,2023,Not Investigated Complaints,Made In Bad Faith,0
+110,2023,Not Investigated Complaints,No Jurisdiction,65
+111,2023,Not Investigated Complaints,Not Directly Affected,25
+112,2023,Not Investigated Complaints,Not in Public Interest,405
+113,2023,Not Investigated Complaints,Vexatious,13
+114,2023,Not Investigated Complaints,Withdrawn,1
+115,2017,Not Investigated Complaints,Better Dealt in Other Law,34
+116,2017,Not Investigated Complaints,Complaint Over Six Months,1
+117,2017,Not Investigated Complaints,Frivolous,96
+118,2017,Not Investigated Complaints,Made In Bad Faith,0
+119,2017,Not Investigated Complaints,No Jurisdiction,37
+120,2017,Not Investigated Complaints,Not Directly Affected,12
+121,2017,Not Investigated Complaints,Not in Public Interest,133
+122,2017,Not Investigated Complaints,Vexatious,1
+123,2017,Not Investigated Complaints,Withdrawn,0
+124,2018,Investigated Complaints,Conduct - Less Serious,299
+125,2018,Investigated Complaints,Conduct - Serious,25
+126,2018,Investigated Complaints,Policy,3
+127,2018,Investigated Complaints,Service,18
+128,2018,Not Investigated Complaints,Abandoned,0
+129,2018,Not Investigated Complaints,Better Dealt in Other Law,33
+130,2018,Not Investigated Complaints,Complaint Over Six Months,2
+131,2018,Not Investigated Complaints,Frivolous,51
+132,2018,Not Investigated Complaints,Made In Bad Faith,2
+133,2018,Not Investigated Complaints,No Jurisdiction,46
+134,2018,Not Investigated Complaints,Not Directly Affected,7
+135,2018,Not Investigated Complaints,Not in Public Interest,144
+136,2018,Not Investigated Complaints,Vexatious,1
+137,2018,Not Investigated Complaints,Withdrawn,0
+138,2019,Investigated Complaints,Conduct - Less Serious,245
