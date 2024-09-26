@@ -25,8 +25,8 @@ complaint_type <- c("Investigated Complaints", "Not Investigated Complaints")
 complaints_type <- sample(complaint_type, n, replace = TRUE)
 
 #Simulate subtype of complaints
-complaint_subtype <- c("Withdrawn", "Vexatious", "Service", "Policy", "Not in Public Interest", "Not Directly Affected", "No Jurisdiction", "Made In Bad Faith", "Frivolous", "Conduct - Serious", "Conduct - Less Serious", "Complaint Over Six Months", "Better Dealt in Other Law", "Abandoned")
-complaints_subtype <- sample(complaint_sybtype, n, replace = TRUE)
+complaint_subtype <- c("Withdrawn", "Service", "Policy", "Not Directly Affected", "Frivolous", "Unlawful")
+complaints_subtype <- sample(complaint_subtype, n, replace = TRUE)
 
 #Simulate count of complaints
 complaint_count <- sample (0:450, n, replace = TRUE)
